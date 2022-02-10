@@ -1,0 +1,34 @@
+---
+title: "Resumen Lectura 1"
+author: "Jaziel Sánchez"
+date: "10/2/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Población y demografía
+## ALgunas definiciones 
+¿Qué es la demografía? Será mejor, pues, tratar de definir la disciplina partiendo de su objeto de estudio, es decir, la población.
+Por población se entiende un conjunto de individuos, constituido de forma estable, ligado por vínculos de reproducción e identificado por características territoriales, políticas, jurídicas, étnicas o religiosas.
+A partir de la definición de población puede deducirse una definición de la demografía, la cual estudiaría aquellos procesos que determinan la formación, la conservación y la desaparición de las poblaciones. Tales procesos, en su forma más agregada, son los de fecundidad, mortalidad y movilidad. La variedad de combinaciones de estos fenómenos, interdependientes entre sí, determina la velocidad de las modificaciones de la población, tanto en sus dimensiones numéricas como en su estructura.
+
+## Componentes basicos de una población y su estructura
+Toda población está compuesta por unidades básicas -los individuos vivos en un cierto momento- y por elementos compuestos -la pareja, el núcleo familiar, la comunidad, etc-.
+Ocupémonos por ahora de las unidades básicas, es decir, de los individuos; la demografía dedica su atención a otras características esenciales. Éstas son, por citar las principales, el sexo, la edad, el estado civil, el lugar de nacimiento y de residencia, características que unidas al conocimiento de las socioeconómicas y biofísicas permiten construir un perfil individual útil para interpretar y entender los fenómenos relacionados con la fecundidad, la mortalidad y la movilidad.
+Las poblaciones, sin embargo, no se diferencian solamente por su ritmo de crecimiento, sino también por su estructura, es decir, por su composición por edad, sexo, estado civil, etc.
+Parece ahora evidente que el estudio de las modificaciones de la estructura de la población implica el estudio de los procesos demográficos ya repetidamente
+mencionados -fecundidad, mortalidad y movilidad- y que gran parte de la demografía tiene como objetivo medirlos y analizarlos.
+
+## Procesos de cohesión y de agregación en una población
+Las poblaciones no son meras sumas de individuos ya que en su formación
+intervienen procesos de cohesión que agregan los individuos en parejas, familias, comunidades o grupos de complejidad y dimensión superiores. Las
+parejas, los núcleos familiares y los conjuntos de familias se forman por nupcialidad, fecundidad y movilidad y se deshacen por la intervención de sus contrarios: disolución del matrimonio, muerte y movilidad de signo contrario.
+Naturalmente, los procesos de cohesión y de repulsión que condicionan el agrupamiento de las poblaciones en familias no son solamente demográficos: otras fuerzas -de carácter económico, cultural y otros- tienen considerable importancia, actuando ya sea de modo autónomo, o bien reforzando o debilitando los procesos demográficos.
+
+## Lo biológico y lo social, o las dos almas de la demografía
+Se ha dicho que la demografía tiene dos almas: una ligada a lo biológico, la otra a lo social. No hay duda, en efecto, que gran parte de los eventos y fenómenos demográficos son manifestaciones de procesos biológicos: basta pensar en la fecundidad y en la mortalidad. Factores naturales y factores sociales coexisten, pues, y se influyen mutuamente.
+Existe, entre los factores naturales y sociales por un lado y los fenómenos demográficos por otro, una interacción recíproca que no se limita al efecto de los primeros sobre los segundos, sino que también, aunque con diferente intensidad, se da en sentido inverso.
+Lo dicho hasta ahora equivale a reafirmar la interdisciplinariedad de la investigación demográfica cuando ésta se desplaza de la fase de enumeración y medida de los fenómenos a la fase de la investigación de las causas.
